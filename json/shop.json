@@ -1,0 +1,19 @@
+[
+  {
+   "image":"img/banner-01.jpg",
+    "productName":"Women",
+    "Time":"Spring 2018"
+  },
+  {
+  	"image":"img/banner-02.jpg",
+    "productName":"Men",
+    "Time":"Spring 2018"
+  },
+  {
+  	"image":"img/banner-03.jpg",
+    "productName":"Accessories",
+    "Time":"New Trend"
+  }
+ 
+]
+	

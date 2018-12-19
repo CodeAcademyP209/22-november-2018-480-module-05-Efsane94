@@ -1,0 +1,12 @@
+.home li{
+	display:inline-block;
+	margin-right:30px;
+	margin-top:30px;
+}
+.home ul{
+	padding:0px;
+}
+a{
+	color:gray;
+}
+
